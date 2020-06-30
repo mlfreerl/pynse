@@ -1,0 +1,7 @@
+enum34~=1.1.10
+requests~=2.22.0
+pandas~=1.0.1
+numpy~=1.18.1
+bs4~=0.0.1
+beautifulsoup4~=4.8.2
+setuptools~=45.2.0
